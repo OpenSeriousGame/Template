@@ -50,4 +50,4 @@ Merci à .
 
 ## Licence
 
-`Workshop` est proposé en [Creative Commons BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.fr) : Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 3.0 International.
+`Workshop` est proposé en [Creative Commons BY 3.0](https://creativecommons.org/licenses/by/3.0/fr/) : Attribution 3.0 France.
